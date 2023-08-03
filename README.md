@@ -8,4 +8,4 @@ This is a simple web calculator that has the system of a normal arithmetic calcu
 - CSS3
 - JavaScript
 
-### Live Preview of the Project : &nbsp;[`Click on the link`](https://github.com/shivani4698/calculator1/edit/main/README.md)
+### Live Preview of the Project : &nbsp;[`Click on the link`](https://github.com/shivani4698/calculator1/)
